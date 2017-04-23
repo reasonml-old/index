@@ -72,5 +72,5 @@
 - [BuckleScript API](https://bloomberg.github.io/bucklescript/api/index.html)
 
 
-## Contriubute
-Have you written a binding or library that's not listed here? Or come across one? Or found a mistake, however unlikely that would be? Then just submit a PR! It'll be very appreciated and probably even accepted!
+## Contribute
+Have you written a binding or library that's not listed here? Or come across one? Or found a mistake, however unlikely that might be? Then just submit a PR! It'll be very appreciated and probably even accepted!
