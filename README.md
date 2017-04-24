@@ -13,6 +13,7 @@ Name | Description | Status
 [reason-react](https://github.com/reasonml/reason-react) | [React](https://facebook.github.io/react/) with some flavor | Mostly complete, but not stable
 [ReWebRTC](https://github.com/bsansouci/ReWebRTC) | [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) | "Super simple"
 [reasongl](https://github.com/bsansouci/reasongl) | [OpenGL 2.0](https://www.khronos.org/registry/OpenGL/specs/gl/glspec20.pdf) and [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) | Unknown, probably usable
+[bucklescript-jquery](https://github.com/nebuta/bucklescript-jquery) | [jQuery](https://jquery.com/) - Swiss army knife | Unknown, Out of date build process
 
 ### Backend (node)
 Name | Description | Status
