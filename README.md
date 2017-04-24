@@ -14,6 +14,7 @@ Name | Description | Status
 [ReWebRTC](https://github.com/bsansouci/ReWebRTC) | [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) | "Super simple"
 [reasongl](https://github.com/bsansouci/reasongl) | [OpenGL 2.0](https://www.khronos.org/registry/OpenGL/specs/gl/glspec20.pdf) and [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) | Unknown, probably usable
 [bucklescript-jquery](https://github.com/nebuta/bucklescript-jquery) | [jQuery](https://jquery.com/) - Swiss army knife | Unknown, Out of date build process
+[bs-dom](https://github.com/0zat/bs-dom) | [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) | Very incomplete, "not test yet"
 
 ### Backend (node)
 Name | Description | Status
