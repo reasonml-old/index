@@ -1,6 +1,21 @@
 # Index of available BuckleScript bindings and Libraries (and also some tooling)
 
-
+- [Bindings](#bindings)
+  - [Frontend (browser)](#frontend-browser)
+  - [Backend (node)](#backend-node)
+  - [Other platforms](#other-platforms)
+  - [General purpose](#general-purpose)
+  - [Testing](#testing)
+- [Libraries](#libraries)
+  - [Frontend (browser)](#frontend-browser-1)
+  - [Backend (node)](#backend-node-1)
+  - [Other platforms](#other-platforms-1)
+  - [General purpose](#general-purpose-1)
+  - [Testing](#testing-1)
+- [Tooling](#tooling)
+- [Realated links](#realted-links)
+- [Contribute](#contribute)
+  
 ## Bindings
 
 ### Frontend (browser)
@@ -32,7 +47,7 @@ Name | Description | Status
 [bs-vscode](https://github.com/glennsl/bs-vscode) | [Visual Studio Code extenstion API](https://code.visualstudio.com/docs/extensionAPI/vscode-api) | Incomplete
 [bs-atom](https://github.com/glennsl/bs-atom) | [Atom package API](https://atom.io/docs/api) | Barely started
 
-### Bind-once-use-everywhere
+### General purpose
 Name | Description | Status
 --- | --- | ---
 [bs-moment](https://github.com/BuckleTypes/bs-moment) | [Moment.js](https://momentjs.com/) - Date processing | Unknown
@@ -61,7 +76,7 @@ Name | Description | Status
 
 ### Other platforms
 
-### Bind-once-use-everywhere
+### General purpose
 Name | Description | Status
 --- | --- | ---
 [bs-containers](https://github.com/BuckleTypes/bs-containers) | Container library, based on [OCaml-containers](https://github.com/c-cube/ocaml-containers) | Very experimental and unstable
