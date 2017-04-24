@@ -9,7 +9,6 @@ Name | Description | Status
 [bs-webapi-incubator](https://github.com/BuckleTypes/bs-webapi-incubator) | (Incomplete) [Web APIs](https://developer.mozilla.org/en-US/docs/Web/Specification_list) | Incomplete (but then that's kind of the point)
 [bs-director](https://github.com/BuckleTypes/bs-director) | [Director](https://github.com/flatiron/director) - Routing | Basic, Usable
 [bs-leaflet](https://github.com/BuckleTypes/bs-leaflet) | [Leaflet.js](http://leafletjs.com/) - Interactive maps | "WIP"
-[bs-history](https://github.com/BuckleTypes/bs-history) | History API | "WIP"
 [bs-fetch](https://github.com/BuckleTypes/bs-fetch) | [Fetch API](https://developer.mozilla.org/en/docs/Web/API/Fetch_API) | Feature complete, probably buggy
 [reason-react](https://github.com/reasonml/reason-react) | [React](https://facebook.github.io/react/) with some flavor | Mostly complete, but not stable
 [ReWebRTC](https://github.com/bsansouci/ReWebRTC) | [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) | "Super simple"
@@ -38,6 +37,7 @@ Name | Description | Status
 [bs-immutablejs](https://github.com/BuckleTypes/bs-immutablejs) | [Immutable.js](https://facebook.github.io/immutable-js/) - Immutable collections | Unknown, probably usable
 [bs-json](https://github.com/BuckleTypes/bs-json) | Low-level JSON encoding and decoding | Usable, Very experimental
 [bs-transit-js](https://github.com/BuckleTypes/bs-transit-js) | [transit.js](https://github.com/cognitect/transit-js) - Marshaling | "rudimentary"
+[bs-history](https://github.com/BuckleTypes/bs-history) | [history](https://github.com/reacttraining/history) - Cross-platform abstraction over the HTML history API | "WIP"
 
 ### Testing
 Name | Description | Status
