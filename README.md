@@ -82,7 +82,7 @@ Name | Description | Status
 [bs-containers](https://github.com/BuckleTypes/bs-containers) | Container library, based on [OCaml-containers](https://github.com/c-cube/ocaml-containers) | Very experimental and unstable
 [immutable-re](https://github.com/facebookincubator/immutable-re) | Pure Reason implementation of persistent immutable data structures | Early alpha
 [reductive](https://github.com/reasonml/reductive) | [Redux](http://redux.js.org/) reimplementation | Proof of concept?
-[transducers.re](https://github.com/IwanKaramazow/transducers.re) | Slojure transducers in Reason | Unknown
+[transducers.re](https://github.com/IwanKaramazow/transducers.re) | Clojure transducers in Reason | Unknown
 
 ### Testing
 Name | Description | Status
