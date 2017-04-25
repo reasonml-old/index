@@ -84,6 +84,7 @@ Name | Description | Status
 [immutable-re](https://github.com/facebookincubator/immutable-re) | Pure Reason implementation of persistent immutable data structures | Early alpha
 [reductive](https://github.com/reasonml/reductive) | [Redux](http://redux.js.org/) reimplementation | Proof of concept?
 [transducers.re](https://github.com/IwanKaramazow/transducers.re) | Clojure transducers in Reason | Unknown
+[bs-ocaml-protoc-json](https://github.com/mransan/bs-ocaml-protoc-json) | Runtime library for [ocaml-protoc](https://github.com/mransan/ocaml-protoc)-generated [Protocol Buffers](https://developers.google.com/protocol-buffers) | Unknown
 
 ### Testing
 Name | Description | Status
