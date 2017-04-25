@@ -102,6 +102,7 @@ Name | Description | Status
 [jeason](https://github.com/chenglou/jeason) | Converts JavaScript it into really bad Reason code | "crappy"
 [reason](https://github.com/facebook/reason) | Ocaml skin | Alpha? Very usable, but still also very much in flux
 [qnd](https://github.com/kennetpostigo/qnd) | Quick and Dirty development builds for reason | Usable
+[grunt-bucklescript](https://github.com/askucher/grunt-bucklescript) | Grunt plugin | Unknown
 
 ## Related Links
 - [awesome-reasonml](https://github.com/vramana/awesome-reasonml)
