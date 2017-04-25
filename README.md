@@ -100,7 +100,7 @@ Name | Description | Status
 [bs-loader](https://github.com/rrdelaney/bs-loader) | Bucklescript loader for Webpack | Unknown
 [jeason](https://github.com/chenglou/jeason) | Converts JavaScript it into really bad Reason code | "crappy"
 [reason](https://github.com/facebook/reason) | Ocaml skin | Alpha? Very usable, but still also very much in flux
-[qnd](https://github.com/kennetpostigo/qnd) | Quick and Dirty development builds for reason | Usable?
+[qnd](https://github.com/kennetpostigo/qnd) | Quick and Dirty development builds for reason | Usable
 
 ## Related Links
 - [awesome-reasonml](https://github.com/vramana/awesome-reasonml)
