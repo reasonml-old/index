@@ -99,7 +99,7 @@ Name | Description | Status
 [vscode-reasonml](https://github.com/freebroccolo/vscode-reasonml) | Reason support for Visual Studio Code | Feature complete
 [reason-tools](https://github.com/freebroccolo/reason-tools) | Refmt in the browser | Continuously improving
 [babel-plugin-transform-bucklescript](https://github.com/freebroccolo/babel-plugin-transform-bucklescript) | Babel postprocessing transformations for BuckleScript generated JavaScript | Unknown
-[bs-loader](https://github.com/rrdelaney/bs-loader) | Bucklescript loader for Webpack | Unknown
+[bs-loader](https://github.com/rrdelaney/bs-loader) | Bucklescript loader for Webpack | Usable
 [jeason](https://github.com/chenglou/jeason) | Converts JavaScript it into really bad Reason code | "crappy"
 [reason](https://github.com/facebook/reason) | Ocaml skin | Alpha? Very usable, but still also very much in flux
 [qnd](https://github.com/kennetpostigo/qnd) | Quick and Dirty development builds for reason | Usable
