@@ -105,6 +105,7 @@ Name | Description | Status
 [qnd](https://github.com/kennetpostigo/qnd) | Quick and Dirty development builds for reason | Usable
 [grunt-bucklescript](https://github.com/askucher/grunt-bucklescript) | Grunt plugin | Unknown
 [ReasonablyTyped](https://github.com/rrdelaney/ReasonablyTyped) | Converts Flow library definitions to Bucklescript interfaces | Very basic
+[ts2re](https://github.com/joshaber/ts2re) | Convert TypeScript type declaration files to Reason externals | "super not ready for real use"
 
 ## Related Links
 - [awesome-reasonml](https://github.com/vramana/awesome-reasonml)
