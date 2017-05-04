@@ -13,7 +13,7 @@
   - [General purpose](#general-purpose-1)
   - [Testing](#testing-1)
 - [Tooling](#tooling)
-- [Relaated links](#related-links)
+- [Related links](#related-links)
 - [Contribute](#contribute)
   
 ## Bindings
