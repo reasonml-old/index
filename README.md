@@ -104,6 +104,7 @@ Name | Description | Status
 [reason](https://github.com/facebook/reason) | Ocaml skin | Alpha? Very usable, but still also very much in flux
 [qnd](https://github.com/kennetpostigo/qnd) | Quick and Dirty development builds for reason | Usable
 [grunt-bucklescript](https://github.com/askucher/grunt-bucklescript) | Grunt plugin | Unknown
+[ReasonablyTyped](https://github.com/rrdelaney/ReasonablyTyped) | Converts Flow library definitions to Bucklescript interfaces | Very basic
 
 ## Related Links
 - [awesome-reasonml](https://github.com/vramana/awesome-reasonml)
