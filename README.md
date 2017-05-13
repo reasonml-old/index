@@ -45,7 +45,7 @@ Name | Description | Status
 --- | --- | ---
 [bs-react-native](https://github.com/BuckleTypes/bs-react-native) | [React Native](https://facebook.github.io/react-native/) Native mobile application framework | Nearly usable
 [bucklescript-electron](https://github.com/freebroccolo/bucklescript-electron) | [Electron](https://electron.atom.io/) | Cross-platform desktop application framework | Unknown
-[bs-vscode](https://github.com/glennsl/bs-vscode) | [Visual Studio Code extenstion API](https://code.visualstudio.com/docs/extensionAPI/vscode-api) | Incomplete
+[bs-vscode](https://github.com/glennsl/bs-vscode) | [Visual Studio Code extension API](https://code.visualstudio.com/docs/extensionAPI/vscode-api) | Incomplete
 [bs-atom](https://github.com/glennsl/bs-atom) | [Atom package API](https://atom.io/docs/api) | Barely started
 
 ### General purpose
