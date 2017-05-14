@@ -57,6 +57,7 @@ Name | Description | Status
 [bs-transit-js](https://github.com/BuckleTypes/bs-transit-js) | [transit.js](https://github.com/cognitect/transit-js) - Marshaling | "rudimentary"
 [bs-history](https://github.com/BuckleTypes/bs-history) | [history](https://github.com/reacttraining/history) - Cross-platform abstraction over the HTML history API | "WIP"
 
+
 ### Testing
 Name | Description | Status
 --- | --- | ---
@@ -84,7 +85,7 @@ Name | Description | Status
 [immutable-re](https://github.com/facebookincubator/immutable-re) | Pure Reason implementation of persistent immutable data structures | Early alpha
 [reductive](https://github.com/reasonml/reductive) | [Redux](http://redux.js.org/) reimplementation | Proof of concept?
 [transducers.re](https://github.com/IwanKaramazow/transducers.re) | Clojure transducers in Reason | Unknown
-[bs-ocaml-protoc-json](https://github.com/mransan/bs-ocaml-protoc-json) | Runtime library for [ocaml-protoc](https://github.com/mransan/ocaml-protoc)-generated [Protocol Buffers](https://developers.google.com/protocol-buffers) | Unknown
+[bs-ocaml-protoc-json](https://github.com/mransan/bs-ocaml-protoc-json) | Runtime library for the [ocaml-protoc](https://github.com/mransan/ocaml-protoc) [Protocol Buffers](https://developers.google.com/protocol-buffers) code generator | Very usable, unit + conformance tests
 
 ### Testing
 Name | Description | Status
