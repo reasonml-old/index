@@ -36,7 +36,7 @@ Name | Description | Status
 Name | Description | Status
 --- | --- | ---
 [bs-node](https://github.com/BuckleTypes/bs-node) | [Node API](https://nodejs.org/docs/latest/api/) | Barely started
-[bs-express](https://github.com/BuckleTypes/bs-express) | [Express](https://expressjs.com/) - Web application framework | Unknown
+[bs-express](https://github.com/BuckleTypes/bs-express) | [Express](https://expressjs.com/) - Web application framework | Usable, Not complete, Unit Tested
 [bs-discord.js](https://github.com/BuckleTypes/bs-discord.js) | [Discord.js](https://discord.js.org) - JS Discord API | Functional but incomplete
 [ReSocket.io](https://github.com/bsansouci/ReSocket.io) | [socket.io](https://github.com/socketio/socket.io) - Event-based communication | Mostly complete, "dead simple"
 
