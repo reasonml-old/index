@@ -53,6 +53,7 @@ Name | Description | Status
 --- | --- | ---
 [bs-moment](https://github.com/BuckleTypes/bs-moment) | [Moment.js](https://momentjs.com/) - Date processing | Unknown
 [bs-immutablejs](https://github.com/BuckleTypes/bs-immutablejs) | [Immutable.js](https://facebook.github.io/immutable-js/) - Immutable collections | Unknown, probably usable
+[bs-axios](https://github.com/meafmira/bs-axios) | [Axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js | Basic, Usable
 [bs-json](https://github.com/BuckleTypes/bs-json) | Low-level JSON encoding and decoding | Usable, Very experimental
 [bs-transit-js](https://github.com/BuckleTypes/bs-transit-js) | [transit.js](https://github.com/cognitect/transit-js) - Marshaling | "rudimentary"
 [bs-history](https://github.com/BuckleTypes/bs-history) | [history](https://github.com/reacttraining/history) - Cross-platform abstraction over the HTML history API | "WIP"
