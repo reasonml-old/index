@@ -25,7 +25,6 @@ Name | Description | Status
 [bs-director](https://github.com/BuckleTypes/bs-director) | [Director](https://github.com/flatiron/director) - Routing | Basic, Usable
 [bs-leaflet](https://github.com/BuckleTypes/bs-leaflet) | [Leaflet.js](http://leafletjs.com/) - Interactive maps | "WIP"
 [bs-fetch](https://github.com/BuckleTypes/bs-fetch) | [Fetch API](https://developer.mozilla.org/en/docs/Web/API/Fetch_API) | Feature complete, probably buggy
-[bs-axios](https://github.com/meafmira/bs-axios) | [Axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js | Basic, Usable
 [reason-react](https://github.com/reasonml/reason-react) | [React](https://facebook.github.io/react/) with some flavor | Mostly complete, but not stable
 [ReWebRTC](https://github.com/bsansouci/ReWebRTC) | [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) | "Super simple"
 [reasongl](https://github.com/bsansouci/reasongl) | [OpenGL 2.0](https://www.khronos.org/registry/OpenGL/specs/gl/glspec20.pdf) and [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) | Unknown, probably usable
@@ -40,7 +39,6 @@ Name | Description | Status
 [bs-express](https://github.com/BuckleTypes/bs-express) | [Express](https://expressjs.com/) - Web application framework | Usable, Not complete, Unit Tested
 [bs-discord.js](https://github.com/BuckleTypes/bs-discord.js) | [Discord.js](https://discord.js.org) - JS Discord API | Functional but incomplete
 [ReSocket.io](https://github.com/bsansouci/ReSocket.io) | [socket.io](https://github.com/socketio/socket.io) - Event-based communication | Mostly complete, "dead simple"
-[bs-axios](https://github.com/meafmira/bs-axios) | [Axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js | Basic, Usable
 
 ### Other platforms
 Name | Description | Status
@@ -55,6 +53,7 @@ Name | Description | Status
 --- | --- | ---
 [bs-moment](https://github.com/BuckleTypes/bs-moment) | [Moment.js](https://momentjs.com/) - Date processing | Unknown
 [bs-immutablejs](https://github.com/BuckleTypes/bs-immutablejs) | [Immutable.js](https://facebook.github.io/immutable-js/) - Immutable collections | Unknown, probably usable
+[bs-axios](https://github.com/meafmira/bs-axios) | [Axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js | Basic, Usable
 [bs-json](https://github.com/BuckleTypes/bs-json) | Low-level JSON encoding and decoding | Usable, Very experimental
 [bs-transit-js](https://github.com/BuckleTypes/bs-transit-js) | [transit.js](https://github.com/cognitect/transit-js) - Marshaling | "rudimentary"
 [bs-history](https://github.com/BuckleTypes/bs-history) | [history](https://github.com/reacttraining/history) - Cross-platform abstraction over the HTML history API | "WIP"
