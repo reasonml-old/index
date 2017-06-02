@@ -40,6 +40,7 @@ Name | Description | Status
 [bs-discord.js](https://github.com/BuckleTypes/bs-discord.js) | [Discord.js](https://discord.js.org) - JS Discord API | Functional but incomplete
 [ReSocket.io](https://github.com/bsansouci/ReSocket.io) | [socket.io](https://github.com/socketio/socket.io) - Event-based communication | Mostly complete, "dead simple"
 [bs-spotify-web-api](https://github.com/ryb73/bs-spotify-web-api) | [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - [Spotify Web API](https://developer.spotify.com/web-api/) | Unknown
+[bs-glob](https://github.com/BuckleTypes/bs-glob) | [node-glob](https://github.com/isaacs/node-glob) - File matching with glob patterns | Basic, Usable
 
 ### Other platforms
 Name | Description | Status
