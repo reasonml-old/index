@@ -32,6 +32,7 @@ Name | Description | Status
 [bs-dom](https://github.com/0zat/bs-dom) | [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) | Very incomplete, "not test yet"
 [bucklescript-phx](https://github.com/phoenix-china/bucklescript-phx) | [Phoenix](http://www.phoenixframework.org/) client API | "work in progress"
 [bs-rebass](https://github.com/MasterOfPoppets/bs-rebass) | [Rebass](https://rebass-beta.now.sh/) - Stateless Component Library | Usable, Not complete 
+[bs-glamor](https://github.com/poeschko/bs-glamor) | [glamor](https://github.com/threepointone/glamor) | Incomplete, but fully functional
 
 ### Backend (node)
 Name | Description | Status
@@ -76,7 +77,6 @@ Name | Description | Status
 --- | --- | ---
 [bucklescript-tea](https://github.com/OvermindDL1/bucklescript-tea) | Implementation of [The Elm Architecture](https://guide.elm-lang.org/architecture/) (ie. TEA, ya get it?) | Usable but incomplete. Alpha maybe?
 [reprocessing](https://github.com/Schmavery/reprocessing) | High-level drawing library inspired by [Processing](https://github.com/Schmavery/reprocessing) | "100% a work in progress"
-[bs-glamor](https://github.com/poeschko/bs-glamor) | [glamor](https://github.com/threepointone/glamor) | Incomplete, but fully functional
 [ReGlamor](https://github.com/kennetpostigo/ReGlamor) | "CSS in Reason" | No code. Cool logo though
 
 ### Backend (node)
