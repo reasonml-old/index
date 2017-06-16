@@ -115,7 +115,7 @@ Name | Description | Status
 
 ## Related Links
 - [awesome-reasonml](https://github.com/vramana/awesome-reasonml)
-- [BuckleScript API](https://bloomberg.github.io/bucklescript/api/index.html)
+- [BuckleScript API](https://bucklescript.github.io/bucklescript/api/index.html)
 - [BuckleTypes wiki/FAQ](https://github.com/BuckleTypes/wiki)
 
 
