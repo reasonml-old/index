@@ -31,6 +31,8 @@ Name | Description | Status
 [bucklescript-jquery](https://github.com/nebuta/bucklescript-jquery) | [jQuery](https://jquery.com/) - Swiss army knife | Unknown, Out of date build process
 [bs-dom](https://github.com/0zat/bs-dom) | [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) | Very incomplete, "not test yet"
 [bucklescript-phx](https://github.com/phoenix-china/bucklescript-phx) | [Phoenix](http://www.phoenixframework.org/) client API | "work in progress"
+[bs-rebass](https://github.com/MasterOfPoppets/bs-rebass) | [Rebass](https://rebass-beta.now.sh/) - Stateless Component Library | Usable, Not complete 
+[bs-glamor](https://github.com/poeschko/bs-glamor) | [glamor](https://github.com/threepointone/glamor) | Incomplete, but fully functional
 
 ### Backend (node)
 Name | Description | Status
@@ -39,6 +41,8 @@ Name | Description | Status
 [bs-express](https://github.com/BuckleTypes/bs-express) | [Express](https://expressjs.com/) - Web application framework | Usable, Not complete, Unit Tested
 [bs-discord.js](https://github.com/BuckleTypes/bs-discord.js) | [Discord.js](https://discord.js.org) - JS Discord API | Functional but incomplete
 [ReSocket.io](https://github.com/bsansouci/ReSocket.io) | [socket.io](https://github.com/socketio/socket.io) - Event-based communication | Mostly complete, "dead simple"
+[bs-spotify-web-api](https://github.com/ryb73/bs-spotify-web-api) | [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - [Spotify Web API](https://developer.spotify.com/web-api/) | Unknown
+[bs-glob](https://github.com/BuckleTypes/bs-glob) | [node-glob](https://github.com/isaacs/node-glob) - File matching with glob patterns | Basic, Usable
 
 ### Other platforms
 Name | Description | Status
@@ -111,7 +115,7 @@ Name | Description | Status
 
 ## Related Links
 - [awesome-reasonml](https://github.com/vramana/awesome-reasonml)
-- [BuckleScript API](https://bloomberg.github.io/bucklescript/api/index.html)
+- [BuckleScript API](https://bucklescript.github.io/bucklescript/api/index.html)
 - [BuckleTypes wiki/FAQ](https://github.com/BuckleTypes/wiki)
 
 
