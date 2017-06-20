@@ -55,7 +55,6 @@ Name | Description | Status
 ### General purpose
 Name | Description | Status
 --- | --- | ---
-[bs-batteries](https://github.com/meafmira/bs-batteries) | [Batteries](http://batteries.forge.ocamlcore.org/) - community-driven effort to standardize on an consistent, documented, and comprehensive development platform for the OCaml | Very Basic (only `Option`, `BatList`, `BatArray` available), WIP
 [bs-moment](https://github.com/BuckleTypes/bs-moment) | [Moment.js](https://momentjs.com/) - Date processing | Unknown
 [bs-immutablejs](https://github.com/BuckleTypes/bs-immutablejs) | [Immutable.js](https://facebook.github.io/immutable-js/) - Immutable collections | Unknown, probably usable
 [bs-axios](https://github.com/meafmira/bs-axios) | [Axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js | Basic, Usable
@@ -88,6 +87,7 @@ Name | Description | Status
 Name | Description | Status
 --- | --- | ---
 [bs-containers](https://github.com/BuckleTypes/bs-containers) | Container library, based on [OCaml-containers](https://github.com/c-cube/ocaml-containers) | Very experimental and unstable
+[bs-batteries](https://github.com/meafmira/bs-batteries) | [Batteries](http://batteries.forge.ocamlcore.org/) - community-driven effort to standardize on an consistent, documented, and comprehensive development platform for the OCaml | Very Basic (only `Option`, `BatList`, `BatArray` available), WIP
 [immutable-re](https://github.com/facebookincubator/immutable-re) | Pure Reason implementation of persistent immutable data structures | Early alpha
 [reductive](https://github.com/reasonml/reductive) | [Redux](http://redux.js.org/) reimplementation | Proof of concept?
 [transducers.re](https://github.com/IwanKaramazow/transducers.re) | Clojure transducers in Reason | Unknown
