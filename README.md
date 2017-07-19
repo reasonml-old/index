@@ -111,7 +111,7 @@ Name | Description | Status
 [reason](https://github.com/facebook/reason) | Ocaml skin | Alpha? Very usable, but still also very much in flux
 [qnd](https://github.com/kennetpostigo/qnd) | Quick and Dirty development builds for reason | Usable
 [grunt-bucklescript](https://github.com/askucher/grunt-bucklescript) | Grunt plugin | Unknown
-[ReasonablyTyped](https://github.com/rrdelaney/ReasonablyTyped) | Converts Flow and TypeScript library definitions to Bucklescript interfaces | Very basic
+[ReasonablyTyped](https://github.com/rrdelaney/ReasonablyTyped) | Converts Flow and TypeScript library definitions to Bucklescript interfaces | Basic
 [ts2re](https://github.com/joshaber/ts2re) | Convert TypeScript type declaration files to Reason externals | "super not ready for real use"
 
 ## Related Links
