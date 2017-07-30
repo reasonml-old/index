@@ -33,6 +33,7 @@ Name | Description | Status
 [bucklescript-phx](https://github.com/phoenix-china/bucklescript-phx) | [Phoenix](http://www.phoenixframework.org/) client API | "work in progress"
 [bs-rebass](https://github.com/MasterOfPoppets/bs-rebass) | [Rebass](https://rebass-beta.now.sh/) - Stateless Component Library | Usable, Not complete
 [bs-glamor](https://github.com/poeschko/bs-glamor) | [glamor](https://github.com/threepointone/glamor) | Incomplete, but fully functional
+[bs-snabbdom](https://github.com/jordwest/bs-snabbdom) | [Snabbdom](https://github.com/snabbdom/snabbdom) - Virtual DOM | "highly experimental and incomplete"
 
 ### Backend (node)
 Name | Description | Status
