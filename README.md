@@ -35,6 +35,7 @@ Name | Description | Status
 [bs-glamor](https://github.com/poeschko/bs-glamor) | [glamor](https://github.com/threepointone/glamor) | Incomplete, but fully functional
 [bs-snabbdom](https://github.com/jordwest/bs-snabbdom) | [Snabbdom](https://github.com/snabbdom/snabbdom) - Virtual DOM | "highly experimental and incomplete"
 [bs-blueprintjs](https://github.com/shanewilson/bs-blueprintjs) | [Blueprint.js](https://github.com/palantir/blueprint) - React-based UI toolkit for the web | Unknown, seems comprehensive
+[reason-vue](https://github.com/aweary/reason-vue) | [Vue.js](https://vuejs.org/) - "progressive" UI framework | Unknown, basic?
 
 ### Backend (node)
 Name | Description | Status
