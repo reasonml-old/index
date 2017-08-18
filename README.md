@@ -116,6 +116,7 @@ Name | Description | Status
 [grunt-bucklescript](https://github.com/askucher/grunt-bucklescript) | Grunt plugin | Unknown
 [ReasonablyTyped](https://github.com/rrdelaney/ReasonablyTyped) | Converts Flow and TypeScript library definitions to Bucklescript interfaces | Basic
 [ts2re](https://github.com/joshaber/ts2re) | Convert TypeScript type declaration files to Reason externals | "super not ready for real use"
+[reason-scripts](https://github.com/reasonml-community/reason-scripts) | Create React App-like development environment setup script | Feature-rich and well-supported
 
 ## Related Links
 - [awesome-reasonml](https://github.com/vramana/awesome-reasonml)
