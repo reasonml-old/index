@@ -71,6 +71,7 @@ Name | Description | Status
 --- | --- | ---
 [bs-jest](https://github.com/reasonml-community/bs-jest) | [Jest](https://github.com/facebook/jest) | Incomplete, but fully functional
 [bs-react-test-renderer](https://github.com/reasonml-community/bs-react-test-renderer) | [react-test-renderer](https://github.com/facebook/react/tree/master/packages/react-test-renderer) | Mostly complete?
+[bs.benchmarkjs](https://github.com/glennsl/bs-benchmarkjs) | [Benchmark.js](https://benchmarkjs.com/) | Very very basic
 
 
 ## Libraries
