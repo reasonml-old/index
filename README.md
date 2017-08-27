@@ -120,6 +120,7 @@ Name | Description | Status
 [ReasonablyTyped](https://github.com/rrdelaney/ReasonablyTyped) | Converts Flow and TypeScript library definitions to Bucklescript interfaces | Basic
 [ts2re](https://github.com/joshaber/ts2re) | Convert TypeScript type declaration files to Reason externals | "super not ready for real use"
 [reason-scripts](https://github.com/reasonml-community/reason-scripts) | Create React App-like development environment setup script | Feature-rich and well-supported
+[bucklescript-tea-starter-kit](https://github.com/tcoopman/bucklescript-tea-starter-kit) | Starter kit for BuckleScript with [TEA (The Elm Architecture)](https://github.com/OvermindDL1/bucklescript-tea) | Fully working
 
 ## Related Links
 - [awesome-reasonml](https://github.com/vramana/awesome-reasonml)
