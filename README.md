@@ -37,6 +37,7 @@ Name | Description | Status
 [bs-blueprintjs](https://github.com/shanewilson/bs-blueprintjs) | [Blueprint.js](https://github.com/palantir/blueprint) - React-based UI toolkit for the web | Unknown, seems comprehensive
 [reason-vue](https://github.com/aweary/reason-vue) | [Vue.js](https://vuejs.org/) - "progressive" UI framework | Unknown, basic?
 [reason-react-toolbox](https://github.com/astrada/reason-react-toolbox) | [react-toolbox](https://github.com/react-toolbox/react-toolbox) - React component library implementing Material Design | Automatically generated
+[bs-react-pdf](https://github.com/meafmira/bs-react-pdf) | [react-pdf](https://github.com/diegomura/react-pdf) bindings for bucklescript | Usable, Incomplete original library
 
 ### Backend (node)
 Name | Description | Status
