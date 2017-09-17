@@ -46,7 +46,7 @@ Name | Description | Status
 [bs-node](https://github.com/reasonml-community/bs-node) | [Node API](https://nodejs.org/docs/latest/api/) | Barely started
 [bs-express](https://github.com/reasonml-community/bs-express) | [Express](https://expressjs.com/) - Web application framework | Usable, Not complete, Unit Tested
 [bs-discord.js](https://github.com/reasonml-community/bs-discord.js) | [Discord.js](https://discord.js.org) - JS Discord API | Functional but incomplete
-[ReSocket.io](https://github.com/bsansouci/ReSocket.io) | [socket.io](https://github.com/socketio/socket.io) - Event-based communication | Mostly complete, "dead simple"
+[bs-socket.io](https://github.com/reasonml-community/bs-socket.io) | [socket.io](https://github.com/socketio/socket.io) - Event-based communication | Mostly complete, "dead simple"
 [bs-spotify-web-api](https://github.com/ryb73/bs-spotify-web-api) | [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - [Spotify Web API](https://developer.spotify.com/web-api/) | Unknown
 [bs-glob](https://github.com/reasonml-community/bs-glob) | [node-glob](https://github.com/isaacs/node-glob) - File matching with glob patterns | Basic, Usable
 [bs-next](https://github.com/ulrikstrid/bs-next) | [Next.js](https://github.com/zeit/next.js) - Server-rendered React application framework | Complete?
