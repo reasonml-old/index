@@ -101,7 +101,6 @@ Name | Description | Status
 ### General purpose
 Name | Description | Status
 --- | --- | ---
-[bs-containers](https://github.com/reasonml-community/bs-containers) | Container library, based on [OCaml-containers](https://github.com/c-cube/ocaml-containers) | Very experimental and unstable
 [bs-batteries](https://github.com/meafmira/bs-batteries) | [Batteries](http://batteries.forge.ocamlcore.org/) - community-driven effort to standardize on an consistent, documented, and comprehensive development platform for the OCaml | Very Basic (only `Option`, `BatList`, `BatArray` available), WIP
 [immutable-re](https://github.com/facebookincubator/immutable-re) | Pure Reason implementation of persistent immutable data structures | Early alpha
 [reductive](https://github.com/reasonml/reductive) | [Redux](http://redux.js.org/) reimplementation | Proof of concept?
