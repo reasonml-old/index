@@ -32,7 +32,7 @@ Name | Description | Status
 [bs-dom](https://github.com/0zat/bs-dom) | [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) | Very incomplete, "not test yet"
 [bucklescript-phx](https://github.com/phoenix-china/bucklescript-phx) | [Phoenix](http://www.phoenixframework.org/) client API | "work in progress"
 [bs-rebass](https://github.com/MasterOfPoppets/bs-rebass) | [Rebass](https://rebass-beta.now.sh/) - Stateless Component Library | Usable, Not complete
-[bs-glamor](https://github.com/poeschko/bs-glamor) | [glamor](https://github.com/threepointone/glamor) | Incomplete, but fully functional
+[bs-glamor](https://github.com/poeschko/bs-glamor) | [glamor](https://github.com/threepointone/glamor) - inline css for react | Incomplete, but fully functional
 [bs-snabbdom](https://github.com/jordwest/bs-snabbdom) | [Snabbdom](https://github.com/snabbdom/snabbdom) - Virtual DOM | "highly experimental and incomplete"
 [bs-blueprintjs](https://github.com/shanewilson/bs-blueprintjs) | [Blueprint.js](https://github.com/palantir/blueprint) - React-based UI toolkit for the web | Unknown, seems comprehensive
 [reason-vue](https://github.com/aweary/reason-vue) | [Vue.js](https://vuejs.org/) - "progressive" UI framework | Unknown, basic?
