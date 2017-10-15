@@ -39,6 +39,7 @@ Name | Description | Status
 [reason-react-toolbox](https://github.com/astrada/reason-react-toolbox) | [react-toolbox](https://github.com/react-toolbox/react-toolbox) - React component library implementing Material Design | Automatically generated
 [bs-react-pdf](https://github.com/meafmira/bs-react-pdf) | [react-pdf](https://github.com/diegomura/react-pdf) | Usable, Incomplete original library
 [bs-d3](https://github.com/af/bs-d3) | [D3](https://github.com/d3/d3) - Data visualization library using SVG, Canvas and HTML | "Extremely incomplete and experimental"
+[bs-storybook](https://github.com/splish-me/bs-storybook) | [Storybook for React](https://github.com/storybooks/storybook) - Development environment for UI components | "Highly experimental and WIP"
 
 ### Backend (node)
 Name | Description | Status
