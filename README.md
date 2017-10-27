@@ -51,6 +51,7 @@ Name | Description | Status
 [bs-spotify-web-api](https://github.com/ryb73/bs-spotify-web-api) | [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - [Spotify Web API](https://developer.spotify.com/web-api/) | Unknown
 [bs-glob](https://github.com/reasonml-community/bs-glob) | [node-glob](https://github.com/isaacs/node-glob) - File matching with glob patterns | Basic, Usable
 [bs-next](https://github.com/ulrikstrid/bs-next) | [Next.js](https://github.com/zeit/next.js) - Server-rendered React application framework | Complete?
+[bs-chalk](https://github.com/AndrewKvalheim/bs-chalk) | [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right | Unknown, undocumented, basic?
 
 ### Other platforms
 Name | Description | Status
