@@ -109,6 +109,7 @@ Name | Description | Status
 [bs-ocaml-protoc-json](https://github.com/mransan/bs-ocaml-protoc-json) | Runtime library for the [ocaml-protoc](https://github.com/mransan/ocaml-protoc) [Protocol Buffers](https://developers.google.com/protocol-buffers) code generator | Very usable, unit + conformance tests
 [bs-re:vamp](https://github.com/glennsl/bs-revamp) | Safe and functional API for JavaScript regexes | Full-featured, but experimental
 [vow](https://github.com/wokalski/vow) | Almost sound Promises for Bucklescript | Full-featured, Documented
+[rebug](https://github.com/glennsl/rebug) | Port of [debug](https://github.com/visionmedia/debug), a library for debug logging | Browser-only, missing a few advanced features
 
 ### Testing
 Name | Description | Status
