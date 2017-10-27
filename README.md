@@ -110,6 +110,7 @@ Name | Description | Status
 [bs-re:vamp](https://github.com/glennsl/bs-revamp) | Safe and functional API for JavaScript regexes | Full-featured, but experimental
 [vow](https://github.com/wokalski/vow) | Almost sound Promises for Bucklescript | Full-featured, Documented
 [rebug](https://github.com/glennsl/rebug) | Port of [debug](https://github.com/visionmedia/debug), a library for debug logging | Browser-only, missing a few advanced features
+[rebase](https://github.com/glennsl/rebase) | Minimal, cross-platform, BuckleScript-first replacement base library | BS only, incomplete, largely undocumented, untested and prone to change
 
 ### Testing
 Name | Description | Status
