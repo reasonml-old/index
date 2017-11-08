@@ -72,7 +72,7 @@ Name | Description | Status
 [bs-history](https://github.com/reasonml-community/bs-history) | [history](https://github.com/reacttraining/history) - Cross-platform abstraction over the HTML history API | "WIP"
 [bs-numeral](https://github.com/drwlrsn/bs-numeral) | [Numeral.js](https://numeraljs.com/) - Formatting and manipulation of numbers | "Work in progress"
 [bs-most](https://github.com/Lokeh/bs-most) | [Most.js](https://github.com/cujojs/most) - Reactive programming toolkit | At least basic
-
+[bs-geofire](https://github.com/AndrewKvalheim/bs-geofire) | [GeoFire](https://github.com/firebase/geofire-js/) - Realtime location queries with Firebase | Complete, Maintained
 
 ### Testing
 Name | Description | Status
