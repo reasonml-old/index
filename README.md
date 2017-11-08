@@ -52,6 +52,7 @@ Name | Description | Status
 [bs-glob](https://github.com/reasonml-community/bs-glob) | [node-glob](https://github.com/isaacs/node-glob) - File matching with glob patterns | Basic, Usable
 [bs-next](https://github.com/ulrikstrid/bs-next) | [Next.js](https://github.com/zeit/next.js) - Server-rendered React application framework | Complete?
 [bs-chalk](https://github.com/AndrewKvalheim/bs-chalk) | [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right | Archived, undocumented, basic?
+[bs-puppeteer](https://github.com/zploskey/bs-puppeteer) | [Puppeteer](https://github.com/GoogleChrome/puppeteer) - API for Headless Chrome | "work in progress, and most features probably don't work yet"
 
 ### Other platforms
 Name | Description | Status
