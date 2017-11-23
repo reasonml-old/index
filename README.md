@@ -40,6 +40,7 @@ Name | Description | Status
 [bs-react-pdf](https://github.com/meafmira/bs-react-pdf) | [react-pdf](https://github.com/diegomura/react-pdf) | Usable, Incomplete original library
 [bs-d3](https://github.com/af/bs-d3) | [D3](https://github.com/d3/d3) - Data visualization library using SVG, Canvas and HTML | "Extremely incomplete and experimental"
 [bs-storybook](https://github.com/splish-me/bs-storybook) | [Storybook for React](https://github.com/storybooks/storybook) - Development environment for UI components | "Highly experimental and WIP"
+[bs-react-intl](https://github.com/alexfedoseev/bs-react-intl) | [react-intl](https://github.com/yahoo/react-intl) - React component library for internationalization | "Work in Progress"
 
 ### Backend (node)
 Name | Description | Status
