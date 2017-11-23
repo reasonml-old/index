@@ -96,6 +96,7 @@ Name | Description | Status
 [bucklescript-tea](https://github.com/OvermindDL1/bucklescript-tea) | Implementation of [The Elm Architecture](https://guide.elm-lang.org/architecture/) (ie. TEA, ya get it?) | Usable but incomplete. Alpha maybe?
 [reprocessing](https://github.com/Schmavery/reprocessing) | High-level drawing library inspired by [Processing](https://github.com/Schmavery/reprocessing) | "100% a work in progress"
 [tween.re](https://github.com/xuu/tween.re) | Reimplementation of [tween.js](https://github.com/tweenjs/tween.js) in Reason | Demoable, Basic?
+[Regql](https://github.com/kennetpostigo/regql) | Simple Fetch-based GraphQL client | Basic
 
 ### Backend (node)
 
