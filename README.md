@@ -42,6 +42,7 @@ Name | Description | Status
 [bs-storybook](https://github.com/splish-me/bs-storybook) | [Storybook for React](https://github.com/storybooks/storybook) - Development environment for UI components | "Highly experimental and WIP"
 [bs-react-intl](https://github.com/alexfedoseev/bs-react-intl) | [react-intl](https://github.com/yahoo/react-intl) - React component library for internationalization | "Work in Progress"
 [bs-nprogress](https://github.com/alexfedoseev/bs-nprogress) | [NProgress](https://github.com/rstacruz/nprogress) - Slim progress bars | Complete?
+[reason-apollo](https://github.com/Gregoirevda/reason-apollo) | [Apollo client] - GraphQL client | Full-featured
 
 ### Backend (node)
 Name | Description | Status
