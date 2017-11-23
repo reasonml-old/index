@@ -53,6 +53,7 @@ Name | Description | Status
 [bs-next](https://github.com/ulrikstrid/bs-next) | [Next.js](https://github.com/zeit/next.js) - Server-rendered React application framework | Complete?
 [bs-chalk](https://github.com/AndrewKvalheim/bs-chalk) | [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right | Archived, undocumented, basic?
 [bs-puppeteer](https://github.com/zploskey/bs-puppeteer) | [Puppeteer](https://github.com/GoogleChrome/puppeteer) - API for Headless Chrome | "work in progress, and most features probably don't work yet"
+[bs-mongodb](https://github.com/PeteProgrammer/bs-mongodb) | [MongoDB](https://github.com/mongodb/node-mongodb-native) - Document-oriented database driver | "preliminary", "need-driven"
 
 ### Other platforms
 Name | Description | Status
