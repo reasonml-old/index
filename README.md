@@ -43,6 +43,7 @@ Name | Description | Status
 [bs-react-intl](https://github.com/alexfedoseev/bs-react-intl) | [react-intl](https://github.com/yahoo/react-intl) - React component library for internationalization | "Work in Progress"
 [bs-nprogress](https://github.com/alexfedoseev/bs-nprogress) | [NProgress](https://github.com/rstacruz/nprogress) - Slim progress bars | Complete?
 [reason-apollo](https://github.com/apollographql/reason-apollo) | [Apollo client](https://github.com/apollographql/apollo-client) - GraphQL client | Full-featured
+[bs-websockets](https://github.com/cxa/bs-websockets) | [WebSockets  API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) | Unknown
 
 ### Backend (node)
 Name | Description | Status
