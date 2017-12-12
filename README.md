@@ -78,6 +78,7 @@ Name | Description | Status
 [bs-numeral](https://github.com/drwlrsn/bs-numeral) | [Numeral.js](https://numeraljs.com/) - Formatting and manipulation of numbers | "Work in progress"
 [bs-most](https://github.com/Lokeh/bs-most) | [Most.js](https://github.com/cujojs/most) - Reactive programming toolkit | At least basic
 [bs-geofire](https://github.com/AndrewKvalheim/bs-geofire) | [GeoFire](https://github.com/firebase/geofire-js/) - Realtime location queries with Firebase | Complete, Maintained
+[bs-date-fns](https://github.com/SllyQ/bs-date-fns) | [date-fns](https://github.com/date-fns/date-fns) - Date utility library | Mostly complete
 
 ### Testing
 Name | Description | Status
