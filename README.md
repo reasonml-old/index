@@ -44,6 +44,7 @@ Name | Description | Status
 [bs-nprogress](https://github.com/alexfedoseev/bs-nprogress) | [NProgress](https://github.com/rstacruz/nprogress) - Slim progress bars | Complete?
 [reason-apollo](https://github.com/apollographql/reason-apollo) | [Apollo client](https://github.com/apollographql/apollo-client) - GraphQL client | Full-featured
 [bs-websockets](https://github.com/cxa/bs-websockets) | [WebSockets  API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) | Unknown
+[bs-reason-apollo](https://github.com/Astrocoders/bs-reason-apollo) | [Apollo client](https://github.com/apollographql/apollo-client) bindings with a focus on js interop | Complete?
 
 ### Backend (node)
 Name | Description | Status
