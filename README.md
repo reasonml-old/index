@@ -1,5 +1,8 @@
 # Index of available BuckleScript bindings and Libraries (and also some tooling)
 
+__** DEPRECATED **__ - Use https://redex.github.io/ instead
+
+
 - [Bindings](#bindings)
   - [Frontend (browser)](#frontend-browser)
   - [Backend (node)](#backend-node)
